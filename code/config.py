@@ -1,7 +1,7 @@
 import os
 
 
-jci_dir = '/Users/zhenyizhang/Desktop/Deep_niPGT/DECENT/test/data/'
+data_dir = '/Users/zhenyizhang/Desktop/Deep_niPGT/DECENT/test/data/'
 
 
 for folder_name in os.listdir(jci_dir):
