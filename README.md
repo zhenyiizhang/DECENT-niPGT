@@ -11,7 +11,7 @@ We present DECENT-niPGT (deep CNV reconstruction of niPGT), a novel deep learnin
 
 ## Get Started
 
-- Clone this repo:
+Clone this repo:
 ```bash
 git clone https://github.com/zhenyiizhang/DECENT-nipgt
 cd DECENT-nipgt
