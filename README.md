@@ -23,4 +23,5 @@ conda activate DECENT
 pip install pysam
 ```
 
-Then both are also needed to install bedtools related packages, it's recommended to refer to [here](https://bedtools.readthedocs.io/en/latest/content/installation.html).
+Both are also needed to install bedtools related packages, it's recommended to refer to [this source](https://bedtools.readthedocs.io/en/latest/content/installation.html) for more details.
+
