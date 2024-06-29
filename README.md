@@ -11,6 +11,12 @@ We present DECENT-niPGT (deep CNV reconstruction of niPGT), a novel deep learnin
 
 ## Get Started
 
+- Clone this repo:
+```bash
+git clone https://github.com/zhenyiizhang/DECENT-nipgt
+cd DECENT-nipgt
+```
+
 - For the ```conda``` users, you can create a new conda environment (DECENT) using 
 ```bash
 conda env create -f environment.yml
