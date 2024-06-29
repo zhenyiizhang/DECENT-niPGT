@@ -31,3 +31,4 @@ pip install pysam
 
 Both are also needed to install bedtools related packages, it's recommended to refer to [this source](https://bedtools.readthedocs.io/en/latest/content/installation.html) for more details.
 
+If you want to conduct CNV analysis further, you should config [Ginkgo](https://github.com/robertaboukhalil/ginkgo) in your own server and then use our reference samples and scripts.
