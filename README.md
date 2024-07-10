@@ -2,6 +2,8 @@
 [![pytorch](https://img.shields.io/badge/PyTorch_2.0+-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/get-started/locally/)
 [![license](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)](https://github.com/zhenyiizhang/DECENT-niPGT/blob/main/LICENSE.txt)
 
+DECENT-niPGT: Advancing maternal contamination removal and CNV reconstruction in noninvasive preimplantation genetic testing through deep learning
+
 ## Introduction
 We present DECENT-niPGT (deep CNV reconstruction of niPGT), a novel deep learning framework aimed at mitigating maternal contamination in SECM and reconstructing embryonic copy number variations (CNVs). DECENT leverages sequence and methylation information from both embryonic and maternal sources, utilizing convolutional neural networks and attention mechanisms to infer the origin of sequence reads. Overall, DECENT contributes to substantially enhancing the diagnostic accuracy and effectiveness of SECM-based niPGT, establishing a robust groundwork for the extensive clinical utilization of niPGT in the field of reproductive medicine.
 
