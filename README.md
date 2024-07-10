@@ -21,7 +21,7 @@ git clone https://github.com/zhenyiizhang/DECENT-nipgt
 cd DECENT-nipgt
 ```
 
-- You can create a new ```conda```  environment (DECENT) using 
+- You can create a new conda  environment (DECENT) using 
 ```bash
 conda env create -f environment.yml
 ```
