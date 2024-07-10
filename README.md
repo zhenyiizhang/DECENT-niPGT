@@ -1,7 +1,7 @@
 # DECENT-niPGT
 [![pytorch](https://img.shields.io/badge/PyTorch_2.0+-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/get-started/locally/)
 [![license](https://img.shields.io/badge/License-MIT-green.svg?labelColor=gray)](https://github.com/zhenyiizhang/DECENT-niPGT/blob/main/LICENSE)
-[![commit](https://img.shields.io/github/last-commit/zhenyiizhang/DECENT-niPGT?color=blue)]
+![commit](https://img.shields.io/github/last-commit/zhenyiizhang/DECENT-niPGT?color=blue)
 
 
 DECENT-niPGT: Advancing maternal contamination removal and CNV reconstruction in noninvasive preimplantation genetic testing through deep learning
