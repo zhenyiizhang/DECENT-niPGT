@@ -64,5 +64,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-
+## Contributors
+<a href="https://github.com/zhenyiizhang/DECENT-niPGT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=zhenyiizhang/DECENT-niPGT" />
+</a>
 
