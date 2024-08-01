@@ -4,7 +4,7 @@
 [![commit](https://img.shields.io/github/last-commit/zhenyiizhang/DECENT?color=blue)](https://github.com/zhenyiizhang/DECENT/)
 
 
-Deep learning-enabled embryonic CNV reconstruction and maternal contamination removal in noninvasive genetic testing of human preimplantation embryos 
+Embryonic CNV reconstruction and maternal contamination removal in noninvasive genetic testing of human preimplantation embryos through deep learning
 
 
 ## Introduction
