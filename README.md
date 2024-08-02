@@ -4,7 +4,7 @@
 [![commit](https://img.shields.io/github/last-commit/zhenyiizhang/DECENT?color=blue)](https://github.com/zhenyiizhang/DECENT/)
 
 
-Deep learning-enabled embryonic CNV reconstruction in noninvasive preimplantation genetic testing through deep learning
+Deep learning-enabled embryonic CNV reconstruction in noninvasive genetic testing of human preimplantation embryos
 
 
 ## Introduction
